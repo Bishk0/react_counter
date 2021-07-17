@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,WAAY,CACZ,aAAc,CACd,iBAAkB,CAClB,qCAAuC","file":"main.0cd75de5.chunk.css","sourcesContent":[".app {\n  width: 320px;\n  margin: 0 auto;\n  text-align: center;\n  font-family: \"Trebuchet MS\", sans-serif;\n}\n"]}
